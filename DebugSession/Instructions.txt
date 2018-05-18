@@ -1,0 +1,8 @@
+Time: 15 minutes
+
+Instructions:
+
+This application shows total females, males and total number of students from an 
+XML document when the "Count" button is pressed.  The problem is the program
+throws an error when the "Count" button is pressed.  You will need to correct the 
+error and make sure all three totals are correct.

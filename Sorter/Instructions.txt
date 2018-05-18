@@ -1,0 +1,9 @@
+Time: 60 minutes
+
+Instructions:
+
+Included in this solution is a file called input.txt, which contains a list of names (first and last).
+First, open and read the contents of the file.
+Then sort the contents of the file by last name, then by first name.  
+Finally write this sorted list to a new file.
+You must use at least one try/catch block and you must create at least one custom class.
